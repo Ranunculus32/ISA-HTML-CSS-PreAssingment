@@ -1,0 +1,108 @@
+body {
+  font-family: "Times New Roman", Times, serif;
+}
+
+.nav-link {
+  color: white;
+  font-size: 20px;
+  font-weight: 600;
+}
+.nav-color {
+  background: #5dacbd;
+}
+.navbar-toggler-icon {
+  color: white;
+}
+
+.nav-item {
+  color: white;
+}
+.container {
+  width: 80vw;
+}
+
+.caption {
+  background: #005792;
+  text-align: center;
+}
+.meet-members {
+  margin-top: 80px;
+  text-align: center;
+  font-size: 20px;
+}
+
+.p-name {
+  font-weight: 600;
+  font-size: 14px;
+}
+
+address a {
+  text-decoration: none;
+  color: white;
+
+}
+li {
+  list-style-type: none;
+}
+p {
+  color: white;
+}
+ul {
+  width: 100%;
+}
+footer {
+  margin-top: 80px;
+  background: #5dacbd;
+  font-size: 10px;
+  width: 100%;
+}
+.fa,
+footer li,
+footer li a,
+footer p {
+  color: white;
+}
+
+.footer-about-list {
+  padding: 0;
+  display: flex;
+  justify-content: center;
+} 
+.footer-about-list .fa {
+  margin: 10px;
+}
+
+.align-center {
+  text-align: center;
+} 
+.footer-nav li {
+  border-right: 2px solid #c4c4c4;
+  display: inline-block;
+  float: left;
+  padding: 0 15px;
+}
+
+.about-p {
+  text-align: center;
+  margin: 0;
+}
+.footer-nav li:last-child {
+  border-right: 0;
+}
+.footer-mid-contact {
+  text-align: center;
+}
+.custom-alignment {
+  margin-top: 40px;
+}
+address i{
+  transition: 100ms all;
+}
+address i:hover {
+  cursor: pointer;
+  font-weight: 600;
+  font-size: 16px;
+  color: #005792;
+  
+}
+
